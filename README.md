@@ -1,1 +1,1 @@
-# ov_qa
+# FAQ of OpenVINO
