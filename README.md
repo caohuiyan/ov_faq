@@ -1,7 +1,7 @@
 # FAQ of OpenVINO
 持续更新中。。。。。
 ## Build Demo 出错
-
+!(https://github.com/caohuiyan/ov_faq/blob/master/screenshots/vs_version.jpg)
 
 ## 1. 安装
 ### 1.1 在Windows上配置环境变量
