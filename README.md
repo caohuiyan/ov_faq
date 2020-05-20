@@ -1,6 +1,13 @@
 # FAQ of OpenVINO
 持续更新中。。。。。
+## 运行脚本出错  
+此时不应有xxx：  
+![](https://github.com/caohuiyan/ov_faq/blob/master/screenshots/%E6%AD%A4%E6%97%B6%E4%B8%8D%E5%BA%94%E6%9C%89_Q.jpg)
+### 解决办法：  
+检查环境变量Path的值，删掉有问题的值（后面可以重新添加）  
+
 ## demo_security_barrier_camera.bat 出错
+CMake Error: Could not create named generator Visual Studio  
 ![](https://github.com/caohuiyan/ov_faq/blob/master/screenshots/vs_version_Q.jpg)
 ### 可能原因：  
 安装 visual studio 的时候修改了默认路径，demo_security_barrier_camera.bat中没有找到相应的 visual studio 版本  
