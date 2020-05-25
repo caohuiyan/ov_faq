@@ -1,6 +1,11 @@
 # FAQ of OpenVINO
 持续更新中。。。。。
 ## 运行脚本出错  
+2020.2版本的demo中使用opencv读取video出错：CvCapture_MSMF::initStream Failed to set mediaType (stream 0, (0x0 @ 1) MFVideoFormat_RGB32 (unsupported media type)
+![](https://github.com/caohuiyan/ov_faq/blob/master/screenshots/failed_to_set_media_type_Q.jpg)  
+### 解决办法：
+2020.1版本没有问题，2020.2需进一步调查...  
+## 运行脚本出错  
 此时不应有xxx：  
 ![](https://github.com/caohuiyan/ov_faq/blob/master/screenshots/%E6%AD%A4%E6%97%B6%E4%B8%8D%E5%BA%94%E6%9C%89_Q.jpg)
 ### 解决办法：  
